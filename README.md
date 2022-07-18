@@ -1,7 +1,7 @@
 # 02 Advanced CSS: Portfolio
 
-Link to deployed app: https://bryanborek.github.io/css-demo-site/
-Link to the project Github: https://github.com/BryanBorek/css-demo-site
+Link to deployed app: https://bryanborek.github.io/02-My-Portfolio/
+Link to the project Github: https://github.com/BryanBorek/02-My-Portfolio
 
 I've recreated the example portfolio to the best of my abilities (though I have made some minor color and image alterations).
 

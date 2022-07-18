@@ -179,6 +179,10 @@ section {
   justify-content: left;
 }
 
+.workflex:hover {
+  opacity: .5;
+}
+
 .aequo {
   background-image: url("../images/aequoImage.png");
   background-color: #cccccc;
